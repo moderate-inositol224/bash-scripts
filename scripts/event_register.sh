@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# Javier Ferrándiz Fernández - 31/07/2023 - https://github.com/javisys
-
 # E-mail address to receive notifications
 email="your_email@example.com"
 
